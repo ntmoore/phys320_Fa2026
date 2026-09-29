@@ -1,0 +1,14 @@
+# Nathan Heier's food items
+# 09-28
+# Walmart
+# food item, food group, total cost($), and total Food Energy (kcals),
+Buldak Carbonara Mac & Cheese, Grains, 2.48, 650,
+Country Hearth12 Grain Bread, Grains, 3.98, 2000,
+Yakult Probiotic Drink, Dairy, 3.28, 250,
+Greek Plain Nonfat Yogurt, Dairy, 3.28, 500,
+Gala Apples, Fruit, 2.72, 770,
+Frozen Blueberries, Fruit, 3.12, 210,
+Frozen Peas, Vegetable, 0.98, 280,
+80/20 Beef, Proteins, 6.93, 1120,
+Doritos Nacho Cheese, Grains, 3.97, 1350,
+Chia Seeds, Proteins, 10.78, 4560,
