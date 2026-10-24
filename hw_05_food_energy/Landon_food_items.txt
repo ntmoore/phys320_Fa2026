@@ -1,0 +1,14 @@
+# Landon Anthony's food items
+# 10/18/2026
+# Hy-Vee
+# food item, food group, total cost($), and total Food Energy (kcals),
+Fresh Chiquita Bananas, Produce, 0.22, 156,
+Jif Creamy Peanut Butter, Nuts & Fats, 2.98, 2660,
+Mission Super Soft Flour Tortillas, Grains, 1.99, 1440,
+Hy-Vee Black Beans, Legume, 0.88, 385,
+Hy-Vee Crushed Tomatoes Puree, Vegetable, 0.99, 140,
+Hy-Vee 2% Reduced Fat Milk, Dairy, 3.89, 1920,
+Hy-Vee Sharp Cheddar Cheese, Dairy, 2.98, 880,
+Nellie's Free Range Brown Eggs Large, Protein, 7.99, 1260,
+Hy-Vee Whole Kernel Golden Corn, Vegetable, 0.99, 245,
+Hy-Vee Traditional Pasta Sauce, Vegetable, 1.88, 300,
